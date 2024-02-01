@@ -1,4 +1,4 @@
-# clock-with-team-logos
+# clock with team logos
 ### Live Site: https: https://geraldandrews.github.io/Clock-with-Team-Logos/
 
 ### Project Description: Personal
